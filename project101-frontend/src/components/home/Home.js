@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Home({ name }) {
+const Home = () => {
     return (
         <h1>
-            Hello {name} !
+            Home Component is working fine !
         </h1>
     )
 }
