@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Home = () => {
-    return (
-        <h1>
-            Home Component is working fine !
-        </h1>
-    )
-}
+  return <h1>Home Component is working fine !</h1>;
+};
 
-export default Home
+export default Home;
